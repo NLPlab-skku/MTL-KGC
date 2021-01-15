@@ -58,3 +58,17 @@ FB15k-237
 | LP + RP | 0.262 | 138 | 0.169 | 0.289 | 0.447 |
 | LP + RR | 0.247 | 143 | 0.154 | 0.272 | 0.434 |
 | LP + RP + RR| 0.267 | 132 | 0.172 | 0.298 | 0.458 |
+
+**Citation**
+
+If you use the codes, please cite the following [paper](https://www.aclweb.org/anthology/2020.coling-main.153/):
+
+```
+@inproceedings{kim2020multi,
+  title={Multi-Task Learning for Knowledge Graph Completion with Pre-trained Language Models},
+  author={Kim, Bosung and Hong, Taesuk and Ko, Youngjoong and Seo, Jungyun},
+  booktitle={Proceedings of the 28th International Conference on Computational Linguistics},
+  pages={1737--1743},
+  year={2020}
+}
+```
